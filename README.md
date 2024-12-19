@@ -5,34 +5,28 @@ Aplikasi ini dirancang untuk mengelola proses pemilihan umum secara digital mela
 
 Fitur Utama Aplikasi
 1. Mode Pengguna Umum
-Memilih Calon Legislatif
-Pengguna dapat memberikan suara kepada salah satu calon legislatif yang terdaftar selama masa pemilu berlangsung.
-Melihat Daftar Calon Legislatif
-Menampilkan informasi lengkap tentang calon legislatif, termasuk nama, partai, dan jumlah suara yang diterima. Data ini dapat disusun berdasarkan:
-Nama calon.
-Partai.
-Jumlah suara.
-Pencarian Data Calon Legislatif
-Fitur untuk mencari data berdasarkan:
-Nama calon legislatif.
-Partai.
-Pemilih yang telah memberikan suara.
+- Memilih Calon Legislatif : Pengguna dapat memberikan suara kepada salah satu calon legislatif yang terdaftar selama masa pemilu berlangsung.
+- Melihat Daftar Calon Legislatif : Menampilkan informasi lengkap tentang calon legislatif, termasuk nama, partai, dan jumlah suara yang diterima. Data ini dapat disusun berdasarkan:
+> Nama calon.
+> Partai.
+> Jumlah suara.
+- Pencarian Data Calon Legislatif : Fitur untuk mencari data berdasarkan:
+> Nama calon legislatif.
+> Partai.
+> Pemilih yang telah memberikan suara.
+
 2. Mode Admin
-Menambah Calon Legislatif Baru
-Admin dapat menambahkan data calon legislatif beserta nama dan partainya.
-Mengedit Data Calon Legislatif
-Admin dapat memperbarui informasi calon legislatif yang sudah terdaftar.
-Menghapus Calon Legislatif
-Admin dapat menghapus data calon legislatif tertentu.
-Menghapus Suara Pemilih
-Admin dapat menghapus suara yang telah diberikan oleh pemilih tertentu, termasuk pengurangan jumlah suara pada kandidat yang dipilih.
-Mengatur Rentang Waktu Pemilu
-Admin dapat menentukan rentang waktu pemilu. Di luar rentang ini, pemilih tidak dapat memberikan suara.
+- Menambah Calon Legislatif Baru : Admin dapat menambahkan data calon legislatif beserta nama dan partainya.
+- Mengedit Data Calon Legislatif : Admin dapat memperbarui informasi calon legislatif yang sudah terdaftar.
+- Menghapus Calon Legislatif : Admin dapat menghapus data calon legislatif tertentu.
+- Menghapus Suara Pemilih : Admin dapat menghapus suara yang telah diberikan oleh pemilih tertentu, termasuk pengurangan jumlah suara pada kandidat yang dipilih.
+- Mengatur Rentang Waktu Pemilu : Admin dapat menentukan rentang waktu pemilu. Di luar rentang ini, pemilih tidak dapat memberikan suara.
+
 Cara Penggunaan Aplikasi
-Memulai Aplikasi
+- Memulai Aplikasi
 Ketika aplikasi dijalankan, pengguna akan disambut dengan menu utama.
 
-Memilih Opsi Menu
+- Memilih Opsi Menu
 Pengguna dapat memilih fitur sesuai kebutuhan dengan mengetik angka yang sesuai di menu utama.
 
 Mode Pengguna:
