@@ -23,33 +23,29 @@ Fitur Utama Aplikasi
 - Mengatur Rentang Waktu Pemilu : Admin dapat menentukan rentang waktu pemilu. Di luar rentang ini, pemilih tidak dapat memberikan suara.
 
 Cara Penggunaan Aplikasi
-- Memulai Aplikasi
-Ketika aplikasi dijalankan, pengguna akan disambut dengan menu utama.
+- Memulai Aplikasi : Ketika aplikasi dijalankan, pengguna akan disambut dengan menu utama.
 
-- Memilih Opsi Menu
-Pengguna dapat memilih fitur sesuai kebutuhan dengan mengetik angka yang sesuai di menu utama.
+- Memilih Opsi Menu : Pengguna dapat memilih fitur sesuai kebutuhan dengan mengetik angka yang sesuai di menu utama.
 
-Mode Pengguna:
-Ketik 1: Untuk memilih calon legislatif.
-Ketik 2: Untuk melihat daftar calon legislatif.
-Ketik 3: Untuk mencari data calon legislatif.
-Ketik 4: Untuk menampilkan pemenang pemilu.
-Ketik 5: Untuk keluar dari aplikasi.
-Mode Admin:
-Ketik "admin" untuk masuk ke menu admin.
-Mode Admin
-Setelah masuk ke mode admin, admin dapat memilih opsi berikut:
+- Mode Pengguna:
+> Ketik 1: Untuk memilih calon legislatif.
+> Ketik 2: Untuk melihat daftar calon legislatif.
+> Ketik 3: Untuk mencari data calon legislatif.
+> Ketik 4: Untuk menampilkan pemenang pemilu.
+> Ketik 5: Untuk keluar dari aplikasi.
+- Mode Admin:
+> Ketik "admin" untuk masuk ke menu admin.
+- Mode Admin : Setelah masuk ke mode admin, admin dapat memilih opsi berikut:
 
-Ketik 1: Menambah calon legislatif.
-Ketik 2: Menghapus calon legislatif.
-Ketik 3: Mengedit data calon legislatif.
-Ketik 4: Menghapus suara pemilih.
-Ketik 5: Mengatur rentang waktu pemilu.
-Ketik 6: Kembali ke menu utama.
-Proses Pemilihan
+> Ketik 1: Menambah calon legislatif.
+> Ketik 2: Menghapus calon legislatif.
+> Ketik 3: Mengedit data calon legislatif.
+> Ketik 4: Menghapus suara pemilih.
+> Ketik 5: Mengatur rentang waktu pemilu.
+> Ketik 6: Kembali ke menu utama.
 
-Pemilih memasukkan nama mereka dan nama calon yang dipilih. Jika nama calon valid, suara akan dihitung.
-Jika pemilu berada di luar rentang waktu yang ditentukan, pemilih tidak dapat memberikan suara.
-Menutup Aplikasi
-
-Ketik 5 dari menu utama untuk keluar dari aplikasi.
+- Proses Pemilihan : 
+> Pemilih memasukkan nama mereka dan nama calon yang dipilih. Jika nama calon valid, suara akan dihitung.
+> Jika pemilu berada di luar rentang waktu yang ditentukan, pemilih tidak dapat memberikan suara.
+- Menutup Aplikasi :
+> Ketik 5 dari menu utama untuk keluar dari aplikasi.
